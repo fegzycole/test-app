@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MessageBox /> should render correctly 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-qqlyqx-StyledBox-root"
+  >
+    <h5
+      class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+    >
+      Mock Text
+    </h5>
+  </div>
+</div>
+`;

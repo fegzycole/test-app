@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MovieCard /> should render correctly 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-md-4 MuiGrid-grid-lg-3 css-1557hwu-MuiGrid-root-StytledGrid-wrapper"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qegifv-MuiPaper-root-MuiCard-root-StyledCard-wrapper"
+    >
+      <img
+        alt="movie-poster"
+        class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+        height="250"
+        src="Mock Poster"
+      />
+      <div
+        class="MuiCardContent-root css-1189jzg-MuiCardContent-root-StyledCardContent-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1qhct6m-MuiTypography-root-StyledButton-root"
+        >
+          Mock Title
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
